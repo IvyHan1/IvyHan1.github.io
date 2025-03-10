@@ -1,2 +1,2 @@
-# IvyHan1.github.io
-## This blog documents mu learning journey.
+# This blog documents my learning journey.
+## "If you get tired, learn to rest, not to quit."
